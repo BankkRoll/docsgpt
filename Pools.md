@@ -1,4 +1,4 @@
-# 🏦 Gamba Liquidity Pools Deep Dive
+# 🏦 Liquidity Pools
 
 Gamba's liquidity pools are the cornerstone of the betting ecosystem, acting as the house that players bet against. These pools are not just integral to the mechanics of Gamba; they embody the spirit of decentralization and profit-sharing.
 
